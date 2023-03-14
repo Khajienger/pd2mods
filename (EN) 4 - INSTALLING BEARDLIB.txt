@@ -1,0 +1,18 @@
+=========================================================================================================
+
+[1]
+
+- From this package with mods (MODS) download the archive BeardLib.zip
+- Unzip the folder from the archive to the folder with mods.
+- Folder with mods: Steam\steamapps\common\PAYDAY 2\mods
+- BEARDLIB installation is complete.
+
+=========================================================================================================
+
+[2]
+
+- To make sure that the installation was successful, go into the game.
+- An additional key should appear in the settings in the game, as in the screenshot: https://disk .yandex.ru/i/wg5IN7n3otCdTw
+- The BEARDLIB interface looks like in the screenshot: https://disk .yandex.ru/i/ROz3dzFoosdPwg
+
+=========================================================================================================

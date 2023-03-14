@@ -1,0 +1,61 @@
+==============================================================================================================
+
+[1]
+
+- Go to the official website and download the archive or follow the link: https://disk .yandex.ru/d/2HBewteiZ3cIbw
+
+==============================================================================================================
+
+[2]
+
+- Open the downloaded archive and the folder with the game, we will work with these 2 windows.
+
+- Game folder: Steam\steamapps\common\PAYDAY 2\
+
+==============================================================================================================
+
+[3]
+
+- Extract a file from the archive WSOCK32.dll to the folder with the game Steam\steamapps\common\PAYDAY 2\
+
+- In the folder with the game Steam\steamapps\common\PAYDAY 2\ create a new folder and name mods
+
+==============================================================================================================
+
+- Should get as in the screenshot: https://disk .yandex.ru/i/rlz8dy9FsYYjGw
+
+==============================================================================================================
+
+[4]
+
+- Launch PAYDAY 2
+
+- The system will most likely request confirmation to download superBLT, we accept the request.
+
+-- If the game has started after accepting the request, we exit it.
+
+-- If the game does not start after accepting the request, we start the game and exit it.
+
+==============================================================================================================
+
+[5]
+
+- superBLT installation is complete.
+
+- Download mods and unpack the archives with mods (usually mods are stored archived) into a folder with mods.
+
+- Folder with mods Steam\steamapps\common\PAYDAY 2\mods\
+
+==============================================================================================================
+
+[6]
+
+- To make sure that the installation was successful, go into the game.
+
+- In the game, go to the settings and you should see the new 3 items that have appeared.
+
+- As in the screenshot: https://disk .yandex.ru/i/cSFXPWamDVPC8g
+
+- Click on the BLT MODS and see something like what's in the screenshot: https://disk .yandex.ru/i/pkb2osa0gRxWB
+
+==============================================================================================================

@@ -1,0 +1,49 @@
+Mods require SuperBLT and BeardLIB to work (the second is a mod to the first).
+
+====================================================================================
+
+-You can see how to install SuperBLT here:
+
+https://disk.yandex.ru/d/1FOzrOGROz42mw
+
+- Either here:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2654021861
+
+====================================================================================
+
+-Download SuperBLT so you can here:
+
+https://disk.yandex.ru/d/2HBewteiZ3cIbw
+
+-But maybe a newer version has already been released, so it's better from the official website:
+
+https://superblt.znix.xyz
+
+====================================================================================
+
+-How to install BeardLIB can be found here:
+
+https://disk.yandex.ru/d/ueMwyTFF8koIcA
+
+-You can download BeardLIB among this package of mods:
+
+https://disk.yandex.ru/d/jB69F09csIlb4Q
+
+====================================================================================
+
+-All modifications in the pack work independently of each other.
+
+-After installing the mechanisms, you can start downloading and installing mods.
+
+-To install the mod, extract the folder from the archive with the mod to the game folder:
+
+C:\Steam\steamapps\common\PAYDAY 2\mods\
+
+====================================================================================
+
+-You can also download a ready-made assembly already installed on the game and with the exposed
+
+-settings, but it may not contain all the mods from the package:
+
+https://disk.yandex.ru/d/L7Ox8nmaj1-evg
