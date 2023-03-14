@@ -1,92 +1,92 @@
 1. Additonal Loot XP
 
 We get more experience for a side of packs of money and valuables.
-================================================= ================================================= =
+=====================================================================================================
 
 2. AntiCheat
 
 Helps to exclude players who can harm the host.
-================================================= ================================================= =
+=====================================================================================================
 
 3. Autocams
 
 Highlights all visible guards when the player is viewing cameras in the guard room.
-================================================= ================================================= =
+=====================================================================================================
 
 4. Better Gage Courier
 
 Increases approximately 2.5 times the number of Gage's parcels on the map.
-================================================= ================================================= =
+=====================================================================================================
 
 5. Better Bots
 
 Increases the damage and health of bots by 10 times.
-================================================= ================================================= =
+=====================================================================================================
 
 6. BetterJokers
 
 Opponents transferred to your side will become more active and behave similar to Better Bots.
-================================================= ================================================= =
+=====================================================================================================
 
 7. Cableties And Hostages
 
 Endless ties for hostages.
-================================================= ================================================= =
+=====================================================================================================
 
 8. Carry Stacker Reloaded
 
 Allows the player to carry approximately 130 bags, regardless of their weight.
-================================================= ================================================= =
+=====================================================================================================
 
 9.Client-sided Blankets
 
 On the mission "LAB RAT", allows the blanket to fall.
 Players landing on top of the blanket do not take damage.
-================================================= ================================================= =
+=====================================================================================================
 
 10. Cloaker in the Pot
 
 Spawns clockers when breaking flower pots in the "First World Bank" mission and when opening
 vehicle doors on the mission "FIRESTARTER". Perhaps there will be "surprises" somewhere else.
-================================================= ================================================= =
+=====================================================================================================
 
 11. Double Jump
 
 Allows the player to double jump. Like in Team Fortress 2.
-================================================= ================================================= =
+=====================================================================================================
 
 12. Enemies Weapon Changer
 
 Allows you to change the weapon of any character. Use with caution as Flights are possible.
 It is better to set up manually to uncheck the items (NOT LOAD).
-================================================= ================================================= =
+=====================================================================================================
 
 13. ECM Through Walls
 
 ECM acoustic loop works through walls.
-================================================= ================================================= =
+=====================================================================================================
 
 14. CookFaster
 
 Fast cooking of meth, including on rats.
-================================================= ================================================= =
+=====================================================================================================
 
 15. Dodge Counter
 
 As planned, the mod should help counterattack tasers and clockers.
-================================================= ================================================= =
+=====================================================================================================
 
 16. Equipment stacker
 
 Allows you to collect up to 5 items in a stack (key - card, scrap) and up to 10 ingredients for cooking.
 It also allows you to collect items (cards, Gage's packages) from a distance, collect instantly and through walls.
 The item stack feature only works when you have 3 bots.
-================================================= ================================================= =
+=====================================================================================================
 
 17. Firestarter Day 1 Stealth
 
 Makes the first day of "FIRESTARTER" the standard conditions for raising the alarm.
-================================================= ================================================= =
+=====================================================================================================
 
 18. Free Flight Camera
 
@@ -99,27 +99,27 @@ With this mod you can:
 Control see here:
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1339238763
-================================================= ================================================= =
+=====================================================================================================
 
 19. God Mode
 
 Makes the host immune to damage, but can still be killed by a Cloaker, for example.
-================================================= ================================================= =
+=====================================================================================================
 
 20. Hard Cash
 
 Just a custom robbery, accidentally got into the assembly.
-================================================= ================================================= =
+=====================================================================================================
 
 21. H.E. Turret
 
 Allows you to use the turret on some missions where it is available.
-================================================= ================================================= =
+=====================================================================================================
 
 22. Hostage Escort Tweaks
 
 Allows you to drive up to 3 hostages, speeds them up by 1.5 times and increases the following range by 10 times.
-================================================= ================================================= =
+=====================================================================================================
 
 23. Intimidate Everyone
 
@@ -128,35 +128,35 @@ Enemies fighting for you cannot use their special abilities,
 therefore, only a white bulldozer with a minigun provides value.
 
 Works great in tandem with Nearly Infinite Jokers Mod.
-================================================= ================================================= =
+=====================================================================================================
 
 24. Helpful Converted and Teammate
 
 Opponents converted to your side can pick up a fallen player.
-================================================= ================================================= =
+=====================================================================================================
 
 25. Isolation Helper [No Mercy]
 
 Shows the right patient in the "NO MERCY" heist.
-================================================= ================================================= =
+=====================================================================================================
 
 26. Last Bullet
 
 Holds 1 ammo in a weapon clip to reload faster.
 Allows you to set the type of weapon to which this effect will apply.
-================================================= ================================================= =
+=====================================================================================================
 
 27. Loot Limit Removal
 
 Removes the limit on the number of bags that can be carried away during a heists.
-================================================= ================================================= =
+=====================================================================================================
 
 28. LowCostSkill
 
 Allows you to pump all skills in all branches at the same time. If you downloaded with the mod enabled, reset
 with it on and vice versa, if you downloaded it with it turned off, reset it with it turned off, otherwise you will look for
 where did the glasses go?
-================================================= ================================================= =
+=====================================================================================================
 
 29. Meth Helper Updated
 
@@ -164,17 +164,17 @@ Tells you what ingredient should be added when cooking meth (including on rats).
 Requires additional configuration:
 - turn on the publication of messages or leave private,
 -duplicate messages when Bane repeats an ingredient.
-================================================= ================================================= =
+=====================================================================================================
 
 30. Meth Lab Basement
 
 The brew lab on the MET BOOK mission is moving into the basement.
-================================================= ================================================= =
+=====================================================================================================
 
 31. More Loot From Lootbags
 
 Increases the value of stolen bags several times.
-================================================= ================================================= =
+=====================================================================================================
 
 32. MorePagers
 
@@ -185,74 +185,74 @@ not exactly, since another mod is responsible for this: SilentAssasin.
 
 This mod is configured to work with SilentAssasin
 from this side.
-================================================= ================================================= =
+=====================================================================================================
 
 33. Nearly Infinite Jokers Mod
 
 Allows you to transfer 1000 opponents to your side, thus gathering an army.
 Works great in tandem with Intimidate Everyone.
-================================================= ================================================= =
+=====================================================================================================
 
 34. No Body Bags Required (Lite)
 
 Endless body bags.
-================================================= ================================================= =
+=====================================================================================================
 
 35. No Cloaker Camera Movement
 
 The camera does not rotate when you are attacked by a cloaker.
-================================================= ================================================= =
+=====================================================================================================
 
 36. No Pager On Domination
 
 When taking a guard hostage, the pager is not requested until he is killed.
-================================================= ================================================= =
+=====================================================================================================
 
 37. NoECMfeedback
 
 ECM acoustic loop no longer affects your wildcards.
-================================================= ================================================= =
+=====================================================================================================
 
 38. Payday2 Bonus Loot XP Master
 
 You get many times more experience for bags.
-================================================= ================================================= =
+=====================================================================================================
 
 39. Powerful pocket ECM fixed
 
 Pocket Jammer, in the "Hacker" skill lasts 30 seconds and has a cooldown of 30 seconds, can be launched
 without end.
-================================================= ================================================= =
+=====================================================================================================
 
 40. Pre U201 Counterfeit
 
 Disables the alarm trigger when opening the vault on the FAKE heist.
-================================================= ================================================= =
+=====================================================================================================
 
 41. Print Faster
 
 Fast printing in the "FAKE" heist, similar to CookFaster
-================================================= =================================================
+=====================================================================================================
 
 42. Respawn Custodyed Bots After Player Leaving
 
 Revives the bot after the costodyed player has left the game.
-================================================= =================================================
+=====================================================================================================
 
 43. Revert U199 Titan Cams
 
 Changes titanium cameras to regular ones on some heists
-================================================= ================================================= =
+=====================================================================================================
 
 44. RNGModifier
 
 Allows you to pre-set the spawn of "guard rooms, safes, vaults, etc." for every robbery.
-================================================= ================================================= =
+=====================================================================================================
 
 45 Security Camera 2.0
 
 Turns all cameras to the wall, as a result they see almost nothing
-================================================= ================================================= =
+=====================================================================================================
 
 46. Silent Assassin
 
@@ -262,12 +262,12 @@ Increases the number of allowed pager responses to 18.
 This mod is configured to work with MorePagers in this build
 
 Requires additional configuration in the mod settings menu.
-================================================= ================================================= =
+=====================================================================================================
 
 47. Spawn Addition Loots on Gage Package
 
 Adds an extra bag of loot to Gage's packages. It can be jewelry, gold, coke, and even an ATM.
-================================================= ================================================= =
+=====================================================================================================
 
 48. Unmask
 
@@ -276,14 +276,14 @@ On the "Casino" heist, you can instantly exit civilian mode into exploration mod
 Rarely happens a bug with the inability to put on a mask again
 
 Requires you to set a hotkey in the mod's key settings menu.
-================================================= ================================================= =
+=====================================================================================================
 
 49. Why Are You Running
 
 On missions: "COOKING", "FAKE", "DIAMOND", "WATCHDOGS", "SANTA'S WORKSHOP", "SNOW CHRISTMAS",
 and perhaps for some other pilots and drivers will not leave you too early and pick you up
 bags in parts.
-================================================= ================================================= =
+=====================================================================================================
 
 50. XP Bank
 
@@ -292,4 +292,4 @@ Allows additionally accumulated 100 levels to be converted into 1 infame.
 This way you can always be level 100.
 
 Requires you to set a hotkey in the mod's key settings menu.
-================================================= ================================================= =
+=====================================================================================================
