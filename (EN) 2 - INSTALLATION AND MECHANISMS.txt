@@ -1,4 +1,4 @@
-Mods require SuperBLT and BeardLIB to work (the second is a mod to the first).
+You need to install "SuperBLT" and mod for this "BeardLIB".
 
 ====================================================================================
 
