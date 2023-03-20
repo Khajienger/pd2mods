@@ -1,6 +1,6 @@
 1. Additonal Loot XP
 
-We get more experience for a side of packs of money and valuables.
+Get more experience for a side of packs of money and valuables.
 =====================================================================================================
 
 2. AntiCheat
