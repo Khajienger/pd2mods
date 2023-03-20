@@ -4,8 +4,8 @@
 
 - From this package with mods (MODS) download the archive BeardLib.zip
 - Unzip the folder from the archive to the folder with mods.
-- Folder with mods: Steam\steamapps\common\PAYDAY 2\mods\
-- BEARDLIB installation is complete!
+- Folder with mods: Steam\steamapps\common\PAYDAY 2\mods
+- BEARDLIB installed!
 
 =========================================================================================================
 
